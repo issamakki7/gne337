@@ -1,0 +1,620 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 19007,
+      "max": [
+        37.664730072021484,
+        16.165353775024414,
+        17.24553108215332
+      ],
+      "min": [
+        -35.94789123535156,
+        2.194326877593994,
+        4.853818416595459
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 228084,
+      "componentType": 5126,
+      "count": 19007,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 112938,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 456168,
+      "componentType": 5126,
+      "count": 4890,
+      "max": [
+        30.548175811767578,
+        10.782293319702148,
+        14.510077476501465
+      ],
+      "min": [
+        -1.1494663953781128,
+        4.374415874481201,
+        7.5893425941467285
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 514848,
+      "componentType": 5126,
+      "count": 4890,
+      "max": [
+        0.9999727606773376,
+        0.9999992251396179,
+        0.9999419450759888
+      ],
+      "min": [
+        -0.999992847442627,
+        -0.9996885061264038,
+        -0.9999420642852783
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 451752,
+      "componentType": 5125,
+      "count": 29880,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 573528,
+      "componentType": 5126,
+      "count": 2199,
+      "max": [
+        -7.916332721710205,
+        11.567584037780762,
+        12.773860931396484
+      ],
+      "min": [
+        -36.2011833190918,
+        -1.6580079793930054,
+        9.325664520263672
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 599916,
+      "componentType": 5126,
+      "count": 2199,
+      "max": [
+        0.9999760389328003,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9999815821647644,
+        -1.0,
+        -0.9999998211860657
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 571272,
+      "componentType": 5125,
+      "count": 12954,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 626304,
+      "componentType": 5126,
+      "count": 2535,
+      "max": [
+        -8.27698802947998,
+        10.45266056060791,
+        10.902551651000977
+      ],
+      "min": [
+        -13.228959083557129,
+        -1.6634775400161743,
+        3.33990216255188
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 656724,
+      "componentType": 5126,
+      "count": 2535,
+      "max": [
+        0.9993104934692383,
+        0.997316300868988,
+        0.9956191182136536
+      ],
+      "min": [
+        -0.5527398586273193,
+        -0.9999274015426636,
+        -0.999512255191803
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 623088,
+      "componentType": 5125,
+      "count": 14040,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 687144,
+      "componentType": 5126,
+      "count": 7455,
+      "max": [
+        -9.2030611038208,
+        10.686453819274902,
+        11.451176643371582
+      ],
+      "min": [
+        -16.966476440429688,
+        -1.473049521446228,
+        3.6302573680877686
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 776604,
+      "componentType": 5126,
+      "count": 7455,
+      "max": [
+        0.8755974173545837,
+        0.9997624158859253,
+        0.9998235702514648
+      ],
+      "min": [
+        -0.9994691014289856,
+        -0.9999130368232727,
+        -0.9998234510421753
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 679248,
+      "componentType": 5125,
+      "count": 37080,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 866064,
+      "componentType": 5126,
+      "count": 2880,
+      "max": [
+        -10.483126640319824,
+        10.70816707611084,
+        11.383589744567871
+      ],
+      "min": [
+        -16.200515747070313,
+        -1.2195063829421997,
+        3.9538111686706543
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 900624,
+      "componentType": 5126,
+      "count": 2880,
+      "max": [
+        0.7243887186050415,
+        0.9997572302818298,
+        0.9988328218460083
+      ],
+      "min": [
+        -0.7243837118148804,
+        -0.9997572302818298,
+        -0.9988328814506531
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 827568,
+      "componentType": 5125,
+      "count": 10800,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 935184,
+      "componentType": 5126,
+      "count": 4320,
+      "max": [
+        -10.483126640319824,
+        10.70816707611084,
+        11.383589744567871
+      ],
+      "min": [
+        -16.200515747070313,
+        -1.2195063829421997,
+        3.9538111686706543
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 987024,
+      "componentType": 5126,
+      "count": 4320,
+      "max": [
+        0.7243887186050415,
+        0.9997624158859253,
+        0.9988541603088379
+      ],
+      "min": [
+        -0.7243837118148804,
+        -0.9997623562812805,
+        -0.998853862285614
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 870768,
+      "componentType": 5125,
+      "count": 12960,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Andy woodhead (https://sketchfab.com/Andywoodhead)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/m60-machine-gun-1963-free-093e93399528434e9735539e25e51f8d",
+      "title": "M60 Machine gun - 1963 - free"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 922608,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1038864,
+      "byteOffset": 922608,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1961472,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "My_M60_machinegun_250",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.07149847734860362,
+          0.07149847734860362,
+          0.07149847734860362,
+          1.0
+        ],
+        "roughnessFactor": 0.396921304318747
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "My_M60_machinegun_251",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7926760664667007,
+          0.7926760664667007,
+          0.7926760664667007,
+          1.0
+        ],
+        "roughnessFactor": 0.4394825164620689
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "My_M60_machinegun_252",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6034830007234295,
+          0.6034830007234295,
+          0.6034830007234295,
+          1.0
+        ],
+        "metallicFactor": 0.7252506551386584,
+        "roughnessFactor": 0.2631574947254498
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "My_M60_machinegun_253",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3417455923947124,
+          0.10857969074348256,
+          0.01509315336286337,
+          1.0
+        ],
+        "roughnessFactor": 0.4881239017687224
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "My_M60_machinegun_254",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.36926983470546315,
+          0.34593436390984705,
+          0.11769025933441093,
+          1.0
+        ],
+        "roughnessFactor": 0.37868078482875195
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "My_M60_machinegun_255",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.2438378681299503,
+          0.2438378681299503,
+          0.2438378681299503,
+          1.0
+        ],
+        "roughnessFactor": 0.46988338227872734
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "My_M60_machinegun_256",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.564706,
+          0.937255,
+          0.827451,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "My_M60_machinegun_25_My_M60_machinegun_250_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "My_M60_machinegun_25_My_M60_machinegun_251_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "My_M60_machinegun_25_My_M60_machinegun_252_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "My_M60_machinegun_25_My_M60_machinegun_253_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "My_M60_machinegun_25_My_M60_machinegun_254_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 14,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "My_M60_machinegun_25_My_M60_machinegun_255_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15
+          },
+          "indices": 17,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "My_M60_machinegun_25_My_M60_machinegun_256_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 19,
+            "POSITION": 18
+          },
+          "indices": 20,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "fbx M60 V02.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "My_M60_machinegun_25"
+    },
+    {
+      "mesh": 0,
+      "name": "My_M60_machinegun_25_My_M60_machinegun_250_0"
+    },
+    {
+      "mesh": 1,
+      "name": "My_M60_machinegun_25_My_M60_machinegun_251_0"
+    },
+    {
+      "mesh": 2,
+      "name": "My_M60_machinegun_25_My_M60_machinegun_252_0"
+    },
+    {
+      "mesh": 3,
+      "name": "My_M60_machinegun_25_My_M60_machinegun_253_0"
+    },
+    {
+      "mesh": 4,
+      "name": "My_M60_machinegun_25_My_M60_machinegun_254_0"
+    },
+    {
+      "mesh": 5,
+      "name": "My_M60_machinegun_25_My_M60_machinegun_255_0"
+    },
+    {
+      "mesh": 6,
+      "name": "My_M60_machinegun_25_My_M60_machinegun_256_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
